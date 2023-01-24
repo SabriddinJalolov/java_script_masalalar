@@ -296,5 +296,43 @@
 // ###############################################################
 
 
+                    //  DARSDA ALGORITM YECHISH
 
 
+
+
+// for(let i=0;i>100;i++){
+//     if(i%2===0){
+//         console.log(i+"juft")
+
+//     }else{
+//         console.log(i+"toq")
+//     }
+// }
+
+///////////////////////////////////////////////////////////////
+
+// let son=prompt("Son kiriting")
+// let son1=prompt("Yana kiriting")
+
+// if (son%2==0 && son1%2==0){
+//     alert("Ikkalasiyam juft")
+// }
+// else if(son%2!=0 && son1%2!=0) {
+//     alert("Ikkalasiyam toq")
+// }
+// else if(son%2==0) {
+//     alert("Faqat brinchisi juft")
+// }
+// else if(son1%2==0) {
+//     alert("Faqat ikkinchi juft")
+// }
+// else if(son%2!=0){
+//     alert("Faqat brinchisi toq")
+// }
+// else if(son%2!=0){  
+//     alert("Faqat ikkinchi toq");
+// };
+
+
+////////////////////////////////////////////////////////
